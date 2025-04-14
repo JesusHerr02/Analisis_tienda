@@ -22,7 +22,7 @@ Pandas: Manipulación y análisis de datos.
 
 Matplotlib: Creación de gráficos para visualización.
 
-Jupyter Notebook (opcional): Para desarrollo interactivo.
+Google colab: Para desarrollo interactivo.
 
 
 - **Resultados Obtenidos**
